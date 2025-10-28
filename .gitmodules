@@ -1,0 +1,3 @@
+[submodule "midiconverterc"]
+	path = midiconverterc
+	url = https://github.com/Bob96341/midiconverterc
